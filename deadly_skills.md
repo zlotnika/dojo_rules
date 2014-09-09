@@ -17,3 +17,5 @@ I do have a few deadly skills. I will list them in order from most powerful to l
 - cooking
 
 - juggling
+
+- aikido
